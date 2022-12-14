@@ -1,1 +1,1 @@
-# Core by Krishna
+# git demo folder 
